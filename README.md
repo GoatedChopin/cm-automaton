@@ -19,5 +19,5 @@ Note that the AutomatonStringBuilder class is customized with my own personalize
 If the program repeatedly throws errors citing insufficient authorization, the problem may be that the scopes were changed. If you change the scopes in Application.java, you must also *delete the tokens folder*.
 
 For more detailed instructions on starting a project to send emails through the Gmail API, visit the following two links:
-https://developers.google.com/gmail/api/guides/sending
-https://developers.google.com/gmail/api/quickstart/java
+1. https://developers.google.com/gmail/api/guides/sending
+2. https://developers.google.com/gmail/api/quickstart/java
