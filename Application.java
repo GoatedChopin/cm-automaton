@@ -23,12 +23,12 @@ import java.security.GeneralSecurityException;
 import java.util.Collections;
 import java.util.List;
 
-/* class to demonstarte use of Gmail list lalels API */
+/* class to demonstrate use of Gmail list lalels API */
 public class Application {
 
     Gmail service;
     /** Application name. */
-    private static final String APPLICATION_NAME = "Gmail Automaton";
+    private static final String APPLICATION_NAME = "INSERT YOUR APPLICATION NAME HERE";
     /** Global instance of the JSON factory. */
     private static final JsonFactory JSON_FACTORY = GsonFactory.getDefaultInstance();
     /** Directory to store authorization tokens for this application. */
