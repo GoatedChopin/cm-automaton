@@ -23,7 +23,7 @@ import java.security.GeneralSecurityException;
 import java.util.Collections;
 import java.util.List;
 
-/* class to demonstrate use of Gmail list lalels API */
+/* class to build your application and authorize the user to send emails using the application*/
 public class Application {
 
     Gmail service;
